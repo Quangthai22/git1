@@ -2,3 +2,4 @@ thuc hanh
 ly thuyet
 Choi
 ngu
+hoc
